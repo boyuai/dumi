@@ -22,3 +22,4 @@ dist
 .now
 /docs/.upstream
 .DS_Store
+!packages/preset-dumi/lib
